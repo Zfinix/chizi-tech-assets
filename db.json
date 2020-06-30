@@ -1,5 +1,11 @@
 {
     "desktop": [
+         {
+            "title": "Chizi.tech Desktop",
+            "desc": "",
+            "github": "https://github.com/Zfinix/chizitech",
+            "img": "chizi.tech.png"
+        },
         {
             "title": "Netflix Demo",
             "desc": " A desktop implementation for netflix",
@@ -19,12 +25,6 @@
             "github": "https://github.com/Zfinix/flutter-desktop-examples",
             "img": "fpost.png"
         }
-        ,
-        {
-            "title": "Chizi.tech Desktop",
-            "desc": "",
-            "github": "https://github.com/Zfinix/chizitech",
-            "img": "chizi.tech.png"
-        }
+       
     ]
 }
