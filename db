@@ -1,0 +1,30 @@
+{
+    "desktop": [
+        {
+            "title": "Netflix Demo",
+            "desc": " A desktop implementation for netflix",
+            "github": "https://github.com/Zfinix/flutter-desktop-examples",
+            "img": "nfx.png"
+        },
+        {
+            "title": "PS5 Demo",
+            "desc": "",
+            "github": "https://github.com/Zfinix/flutter-desktop-examples",
+            "img": "ps5.png"
+        }
+        ,
+        {
+            "title": "API Post Client in flutter",
+            "desc": "",
+            "github": "https://github.com/Zfinix/flutter-desktop-examples",
+            "img": "fpost.png"
+        }
+        ,
+        {
+            "title": "Chizi.tech Desktop",
+            "desc": "",
+            "github": "https://github.com/Zfinix/chizitech",
+            "img": "chizi.tech.png"
+        }
+    ]
+}
